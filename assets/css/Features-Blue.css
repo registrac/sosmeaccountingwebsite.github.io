@@ -97,7 +97,7 @@
 
 @media (max-width: 400px) {
   .heading-container {
-    background-image: url("../../assets/img/sosme-bg-front-page-sm.svg?h=dc2b0f9335ce6a00e33b104cd5c50907")!important;
+    background-image: url("../../assets/img/sosme-bg-front-page-sm.svg")!important;
     background-position: right;
     background-size: contain;
     background-repeat: no-repeat;
