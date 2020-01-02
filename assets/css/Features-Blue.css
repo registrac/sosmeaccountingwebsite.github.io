@@ -1,0 +1,149 @@
+.features-blue {
+  color: #fff;
+  background: linear-gradient(135deg, #172a74, #21a9af);
+  background-color: #184e8e;
+  padding-bottom: 30px;
+}
+
+@media (max-width:767px) {
+  .features-blue {
+    padding-bottom: 10px;
+  }
+}
+
+.features-blue p {
+  color: rgba(255,255,255,0.6);
+}
+
+.features-blue h2 {
+  font-weight: bold;
+  margin-bottom: 40px;
+  padding-top: 40px;
+  color: inherit;
+}
+
+@media (max-width:767px) {
+  .features-blue h2 {
+    margin-bottom: 25px;
+    padding-top: 25px;
+    font-size: 24px;
+  }
+}
+
+.features-blue .intro {
+  font-size: 16px;
+  max-width: 500px;
+  margin: 0 auto 60px;
+}
+
+@media (max-width:767px) {
+  .features-blue .intro {
+    margin-bottom: 40px;
+  }
+}
+
+.features-blue .item {
+  min-height: 100px;
+  padding-left: 80px;
+  margin-bottom: 40px;
+}
+
+@media (max-width:767px) {
+  .features-blue .item {
+    min-height: 0;
+  }
+}
+
+.features-blue .item .name {
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 20px;
+  color: inherit;
+}
+
+.features-blue .item .description {
+  font-size: 15px;
+  margin-bottom: 0;
+}
+
+.features-blue .item .icon {
+  font-size: 40px;
+  color: #ffcc1e;
+  float: left;
+  margin-left: -65px;
+}
+
+@media (max-width: 400px) {
+  .page-title {
+    font-size: 2rem;
+    text-align: left!important;
+  }
+}
+
+.header-btn {
+}
+
+.btn-container {
+  text-align: center;
+}
+
+@media (max-width: 400px) {
+  .btn-container {
+    text-align: left;
+    margin-top: -20!important;
+  }
+}
+
+@media (max-width: 400px) {
+  .heading-container {
+    background-image: url("../../assets/img/sosme-bg-front-page-sm.svg?h=dc2b0f9335ce6a00e33b104cd5c50907")!important;
+    background-position: right;
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+}
+
+@media (max-width: 400px) {
+  #about {
+    height: 150vh!important;
+  }
+}
+
+@media (max-width: 400px) {
+  .slider-jumbotron {
+    background-color: rgba(102,161,70,0.87);
+    max-width: 100%!important;
+    padding-left: 10%;
+    margin-top: 40vh;
+    padding-bottom: 2vh;
+    padding-top: 2vh;
+    padding-right: 10px;
+    margin-bottom: 0;
+    border-radius: 0;
+  }
+}
+
+.slider-jumbotron {
+  background-color: rgba(102,161,70,0.87);
+  max-width: 60%;
+  padding-left: 10%;
+  margin-top: 40vh;
+  padding-bottom: 2vh;
+  padding-top: 2vh;
+  padding-right: 10px;
+  margin-bottom: 0;
+}
+
+@media (max-width: 400px) {
+  .partner-img {
+    margin: 10px auto!important;
+    max-width: 40%;
+  }
+}
+
+.contact-mobile {
+  padding: 20px;
+  background: rgb(0,155,200);
+}
+
